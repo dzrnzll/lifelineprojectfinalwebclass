@@ -1,0 +1,28 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+.bg-brand {
+  background-color: #0d1b2a;
+}
+
+.jumbotron {
+  background-color: #14213d;
+  color: white;
+}
+
+.jumbotron .btn-primary {
+  background-color: #e63946;
+  border-color: #e63946;
+}
+
+footer {
+  background-color: #0d1b2a;
+  color: white;
+  padding: 20px 0;
+  text-align: center;
+}
+
+.gallery-img {
+  margin-bottom: 20px;
+}
